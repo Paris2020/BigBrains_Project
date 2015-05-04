@@ -1,0 +1,1 @@
+<p>Date: <?php echo date('r')?></p>
